@@ -5,19 +5,19 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [Type of Styling](./1_styling.html)|
 | 02  |  [Colouring](./2_colour.html)|
-| 03  |  [Selector](./1_selector.html)|
-| 04  |  [Structure](./2_page_structure.html)|
-| 05  |  [Tags](./3_tags.html)|
-| 06  |  [Elements](./4_elements.html)|
-| 07  |  [Attributes](./5_attributes.html)|
-| 08  |  [Comments](./6_Comments.html)|
-| 09  |  [ID and Classes](./7_Id_Classes.html)|
-| 10  |  [Inline and Block Elements](./8_inline_block_elements.html)|
-| 11  |  [Inline and Block Elements](./8_inline_block_elements.html)|
-| 12  |  [Inline and Block Elements](./8_inline_block_elements.html)|
-| 13  |  [Inline and Block Elements](./8_inline_block_elements.html)|
-| 14  |  [Inline and Block Elements](./8_inline_block_elements.html)|
-| 15  |  [Inline and Block Elements](./8_inline_block_elements.html)|
+| 03  |  [Selector](./3_selector.html)|
+| 04  |  [Text and Font](./4_text_font.html)|
+| 05  |  [Box Model](./5_box_model.html)|
+| 06  |  [Display Properties](./6_display.html)|
+| 07  |  [Relatives](./7_relatives.html)|
+| 08  |  [Position Properties](./8_position.html)|
+| 09  |  [Z-Index](./9_z-index.html)|
+| 10  |  [Background Size & Image](./10_back_size_img.html)|
+| 11  |  [Flex Box](./11_flexbox.html)|
+| 12  |  [Media Queries](./12_media_queries.html)|
+| 13  |  [Transitions](./13_transition.html)|
+| 14  |  [CSS Transform](./14_css_transform.html)|
+| 15  |  [Animation ](./15_animation.html)|
 
 
 ## Introduction
