@@ -1,0 +1,112 @@
+/* by setting display as inline, the block element act as inline element but margin and padding cannot be set  */
+
+#boxa{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+
+#boxb{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+
+#boxc{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+
+
+
+/* by setting display as inline-block, the block element act as inline element but margin and padding can be set  */
+
+#boxd{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#boxe{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#boxf{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+
+
+
+/* by setting display as none, the block element is removed from the document  */
+
+#boxg{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#boxh{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: none;
+}
+
+#boxi{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+
+
+
+/* by setting Visibility as hidden, the block element is hidden from the document but space for the element is reserved */
+
+#boxj{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#boxk{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    visibility: hidden;
+}
+
+#boxl{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}

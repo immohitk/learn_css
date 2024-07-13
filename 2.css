@@ -1,0 +1,35 @@
+/* changing colour */
+
+h1{
+    color: brown;
+}
+
+
+/* changing background colour */
+
+
+body{
+    background-color: rgb(0, 0, 0);   /*  rgb format */                  /* 0 - 255 range used to set rgb colours */
+}
+
+
+/* we can set multiple css properties in one selector */
+
+button{
+    color: yellow;
+    background-color: #964B00;       /* HEX code format */
+}
+
+
+
+
+/* rgba --> a means opacity, which can be set between 0 to 1 */
+
+div{
+    color: yellow;
+    margin: 100px;
+    padding: 100px;
+    display: inline-block;
+    background-color: rgba(0, 0, 255, 0.36);       /* rgba format */
+}
+

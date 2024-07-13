@@ -1,0 +1,26 @@
+/* Universal Selector */
+
+*{
+    margin-left: 10% ;         /*  "*" Asterisk is used in universal selector  */
+}
+
+/* Element Selector  */
+
+h1{
+    color: red;
+}
+
+
+/* ID Selector  */
+
+#id_sel{
+    color:darkblue;         /*  "#" Hash is used in ID selector  */      /* used for single element*/
+}
+
+
+/* Class Selector  */
+
+.class_sel{
+    color: yellowgreen;     /*  "." Dot is used in class selector */     /* used for multiple elements*/
+}
+

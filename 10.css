@@ -1,0 +1,42 @@
+/*                  COVER                      */
+
+
+#box1{
+
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("./photos/cat.jpg");
+}
+
+
+
+/*                  CONTAIN                    */
+
+
+#box2{
+
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    background-size: contain;
+    background-image: url("./photos/cat.jpg");
+}
+
+
+
+/*                  AUTO                     */
+
+
+#box3{
+
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    background-size: auto;
+    background-image: url("./photos/cat.jpg");
+}

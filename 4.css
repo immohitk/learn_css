@@ -1,0 +1,31 @@
+h1{
+    text-align: center;                              /* Text Align */
+    text-decoration: red dotted underline;         /* Text Decoration */
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+p{
+    font-weight:bold;                                 /* Font Weight */
+    font-family:monospace;                            /* Font Family */
+}
+
+
+
+/* UNITS IN CSS     96px = 1 inch */
+
+h3{
+    font-size: 30px ;                                  /* Font Size */
+}
+
+
+
+h4{
+    line-height: 30px;                                 /* Line Height */
+    text-transform: uppercase;                         /* Text Transform */
+}

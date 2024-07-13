@@ -1,0 +1,28 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    position: relative;
+    left: 50px;
+    z-index: 1;
+}
+
+
+#box2{
+    position: fixed;
+    top: 10px;
+    left: 200px;
+    z-index: -2;
+}
+
+#box3{
+    position: sticky;
+    top: 0px;
+    bottom: 0px;
+    z-index: -1;
+}
